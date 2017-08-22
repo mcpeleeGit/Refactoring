@@ -42,6 +42,9 @@
   <ItemGroup>
     <Compile Include="MessageChains_After.cs" />
     <Compile Include="MessageChains_Before.cs" />
+    <Compile Include="MiddleMan_After2.cs" />
+    <Compile Include="MiddleMan_After.cs" />
+    <Compile Include="MiddleMan_Before.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
